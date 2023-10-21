@@ -1,0 +1,13 @@
+*_pycache_*
+.vscode
+build/*
+log/*
+install
+log
+action_cpp
+action_interfaces
+examples
+fleet_management
+my_interfaces
+py_srvcli
+ros_tutorials

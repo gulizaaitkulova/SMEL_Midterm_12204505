@@ -1,0 +1,16 @@
+int32 order
+---
+int32[] sequence
+---
+int32[] partial_sequence
+
+# # Define the Action Goal message
+# int32 fleet_size
+
+# ---
+# # Define the Action Result message
+# string[] vehicle_routes
+
+# ---
+# # Define the Action Feedback message
+# float32 completion_percentage
